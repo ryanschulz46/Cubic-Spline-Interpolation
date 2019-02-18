@@ -12,7 +12,6 @@ Part 1 does the calculations for top and bottom half of the the airfoil
 Part 2 m.file takes those constants, and computes the area using trapezoidal rule to an error of 10^-8.
 
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Santa Clara University
 AMTH 118 - Numerical Methods
 Project 3
